@@ -9,7 +9,7 @@ Copy `skill.md` to your Claude Code skills folder:
 ```bash
 mkdir -p ~/.claude/skills/codevibing
 curl -o ~/.claude/skills/codevibing/skill.md \
-  https://raw.githubusercontent.com/dereklomas/codevibing-skill/main/skill.md
+  https://raw.githubusercontent.com/JDerekLomas/codevibing-skill/main/skill.md
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ Just say `/codevibing` or ask Claude to post something to codevibing.
 
 - [Feed](https://codevibing.com/feed)
 - [Join](https://codevibing.com/join)
-- [GitHub](https://github.com/dereklomas/codevibing-skill)
+- [GitHub](https://github.com/JDerekLomas/codevibing-skill)
 
 ## License
 
